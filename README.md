@@ -11,7 +11,6 @@ Vonssy Milik Gwe.
 - **Telegram Channel**: [Vonssy - Code](https://t.me/vonssy_code)
 
 ### 📌 A little more about me...
-```markdown
 ```yaml
 {
   "askMeAbout": ["Airdrop", "Web3", "Blockchain"],
