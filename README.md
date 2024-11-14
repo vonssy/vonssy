@@ -18,3 +18,5 @@ Vonssy Milik Gwe.
   "funFact": "Gwe sebenarnya raja iblis!",
   "hobbies": ["Game", "Code", "Rumbling Orang Yang Bilang Gwe Halu"]
 }
+```
+```
