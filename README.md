@@ -19,4 +19,3 @@ Vonssy Milik Gwe.
   "hobbies": ["Game", "Code", "Rumbling Orang Yang Bilang Gwe Halu"]
 }
 ```
-```
