@@ -14,7 +14,7 @@ Vonssy Milik Gwe.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonssy&layout=compact&theme=radical)
 
 ## 🌍 Let's Connect
-- **Telegram Channel**: [Vonssy - Code](https://t.me/vonssy_code)
+- **Telegram Channel**: [Vonssy Part 2?](https://t.me/vonssy_part_2)
 
 ### 📌 A little more about me...
 ```yaml
