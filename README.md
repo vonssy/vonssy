@@ -6,7 +6,7 @@ Vonssy Milik Gwe.
 ---
 
 ## 📢 Sponsor & Partner
-[![Nstproxy](https://github.com/REY-STTP/temp-assets/blob/main/nstproxy.png?raw=true)](https://nstproxy.com)  
+[![Nstproxy](https://github.com/vonssy/vonssy/blob/main/assets/nstproxy.png)](https://nstproxy.com)  
 If you're looking for a reliable proxy to run unlimited wallets, bypass geo-restrictions, and avoid bans in Web3 farming, **Nstproxy** is built for you. Perfect for airdrop farming, multi-account automation, e-commerce, and large-scale scraping — even under strict anti-bot systems.
 
 **Key Features:**
