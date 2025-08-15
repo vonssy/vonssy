@@ -24,7 +24,7 @@ If you're looking for a reliable proxy to run unlimited wallets, bypass geo-rest
 ---
 
 ## 💸 Donate
-> ☕ Dukungan kamu bikin gw semangat ngoding + farming airdrop tiap hari 🤝
+> ☕ Your support makes me excited to code + farm airdrops every day 🤝
 
 | 💰 Blockchain | 📍 Address |
 |--------------|-----------|
@@ -52,6 +52,6 @@ If you're looking for a reliable proxy to run unlimited wallets, bypass geo-rest
 ```yaml
 {
   "askMeAbout": ["Airdrop", "Web3", "Blockchain"],
-  "funFact": "Gwe sebenarnya raja iblis!",
-  "hobbies": ["Game", "Code", "Rumbling Orang Yang Bilang Gwe Halu"]
+  "funFact": "I am actually the heavenly demon king",
+  "hobbies": ["Game", "Code", "Donghua", "Anime", "Manhwa", "Manhua"]
 }
