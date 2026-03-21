@@ -75,7 +75,7 @@ class VonsyTheDemonKing:
 | ![EVM](https://img.shields.io/badge/EVM-0d1117?style=flat-square&logo=ethereum&logoColor=58a6ff) | `0xe3c9ef9a39e9eb0582e5b147026cae524338521a` |
 | ![TON](https://img.shields.io/badge/TON-0d1117?style=flat-square&logo=ton&logoColor=0098EA) | `UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB` |
 | ![SOL](https://img.shields.io/badge/Solana-0d1117?style=flat-square&logo=solana&logoColor=9945FF) | `E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf` |
-| ![SUI](https://img.shields.io/badge/SUI-0d1117?style=flat-square&logoColor=6FBCF0) | `0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347` |
+| ![SUI](https://img.shields.io/badge/SUI-0d1117?style=flat-square&logo=sui&logoColor=6FBCF0) | `0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347` |
 
 </div>
 
