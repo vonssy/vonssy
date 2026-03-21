@@ -65,7 +65,7 @@ class VonsyTheDemonKing:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/vonssy/vonssy/output/github-contribution-grid-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vonssy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/vonssy)
 
 </div>
 
