@@ -1,57 +1,111 @@
-# Dua Tiga Tutup Botol, Hai Botol 👋
+<!--
+██╗   ██╗ ██████╗ ███╗   ██╗███████╗███████╗██╗   ██╗
+██║   ██║██╔═══██╗████╗  ██║██╔════╝██╔════╝╚██╗ ██╔╝
+██║   ██║██║   ██║██╔██╗ ██║███████╗███████╗ ╚████╔╝
+╚██╗ ██╔╝██║   ██║██║╚██╗██║╚════██║╚════██║  ╚██╔╝
+ ╚████╔╝ ╚██████╔╝██║ ╚████║███████║███████║   ██║
+  ╚═══╝   ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝   ╚═╝
+-->
 
-## ✨ About Me
-Vonssy is Mine.
+<div align="center">
 
----
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║    dua tiga tutup botol  ·  hai botol  🍾                ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-## 📢 Sponsor & Partner
-[![Nstproxy](https://github.com/vonssy/vonssy/blob/main/assets/nstproxy.png)](https://nstproxy.com)  
-If you're looking for a reliable proxy to run unlimited wallets, bypass geo-restrictions, and avoid bans in Web3 farming, **Nstproxy** is built for you. Perfect for airdrop farming, multi-account automation, e-commerce, and large-scale scraping — even under strict anti-bot systems.
-
-**Key Features:**
-- 🌍 **Global IP Coverage** – 90M+ residential IPs, 195+ countries, IPv4/IPv6  
-- 🔄 **Rotation Control** – Per request or sticky sessions for logins  
-- 🛡 **Anti-ban & CAPTCHA Bypass** – Reduce bans, boost success rates  
-- 💰 **Affordable** – From $0.1/GB  
-- ⚡ **Multi-purpose** – Web3 farming, scraping, SEO, automation  
-- 🔌 **Easy Integration** – Python, Puppeteer, Playwright, Node.js  
-- 📈 **Unlimited Scaling** – Whatever concurrent connections you want  
-
-👉 **Learn More:** [Nstproxy.com](https://nstproxy.com) | [Telegram](https://t.me/nstproxy) | [Discord](https://discord.gg/5jjWCAmvng)  
-💸 **Use Code  :** `VONSSY` to get 10% OFF
+</div>
 
 ---
 
-## 💸 Donate
-> ☕ Your support makes me excited to code + farm airdrops every day 🤝
+## `> whoami`
 
-| 💰 Blockchain | 📍 Address |
-|--------------|-----------|
-| ![EVM](https://img.shields.io/badge/EVM-3C3C3D?logo=ethereum&logoColor=white) | `0xe3c9ef9a39e9eb0582e5b147026cae524338521a` |
-| ![TON](https://img.shields.io/badge/TON-0098EA?logo=ton&logoColor=white) | `UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB` |
-| ![SOL](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white) | `E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf` |
-| ![SUI](https://img.shields.io/badge/SUI-6FBCF0?logo=sui&logoColor=white) | `0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347` |
+```python
+class VonsyTheDemonKing:
+    name      = "Vonssy"
+    title     = "☯️ Heavenly Demon King"
+    beloved   = "Vonssy is Mine. 🖤"
 
----
+    focus     = ["Airdrop Farming", "Web3", "Blockchain"]
+    hobbies   = ["Code", "Game", "Sleep & Chill"]
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vonssy&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonssy&layout=compact&theme=radical" height="165" />
-</p>
+    fun_fact  = "I am actually the heavenly demon king"
+    status    = "🟢 Online — probably farming something right now"
+```
 
 ---
 
-## 🌍 Let's Connect
-[![Telegram](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?logo=telegram&logoColor=white)](https://t.me/vonssy_part_2)
+## `> skills --list`
+
+<div align="center">
+
+| Domain | Stack |
+|:-------|:------|
+| 🌐 Web3 | `Ethereum` `TON` `Solana` `SUI` `EVM` `Web3.py` `Ethers.js` `Web3.js` |
+| ⛓️ Blockchain | `Airdrop Farming` `Multi-wallet` `Smart Contracts` `Hardhat` `Foundry` |
+| 🤖 Automation | `Python` `Node.js` `Puppeteer` `Playwright` `Selenium` `Requests` |
+| 🔍 Scraping | `BeautifulSoup` `Scrapy` `HTTPX` `Cloudscraper` `Fake-UserAgent` |
+| 🤖 Bot Dev | `Telethon` `Pyrogram` `Discord.py` `Aiogram` |
+| 📝 Smart Contract | `Solidity` `Hardhat` `Foundry` `OpenZeppelin` `Remix` |
+| 🔧 Dev Tools | `Git` `Docker` `VS Code` `Linux` `Postman` `tmux` |
+
+</div>
 
 ---
 
-### 📌 A little more about me...
-```yaml
-{
-  "askMeAbout": ["Airdrop", "Web3", "Blockchain"],
-  "funFact": "I am actually the heavenly demon king",
-  "hobbies": ["Game", "Code", "Donghua", "Anime", "Manhwa", "Manhua"]
-}
+## `> stats --verbose`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vonssy&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonssy&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+</div>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/vonssy/vonssy/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## `> wallet --donate`
+
+> ☕ Every donation fuels more code and more farming. Thank you for the support 🤝
+
+<div align="center">
+
+| Network | Address |
+|:--------|:--------|
+| ![EVM](https://img.shields.io/badge/EVM-0d1117?style=flat-square&logo=ethereum&logoColor=58a6ff) | `0xe3c9ef9a39e9eb0582e5b147026cae524338521a` |
+| ![TON](https://img.shields.io/badge/TON-0d1117?style=flat-square&logo=ton&logoColor=0098EA) | `UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB` |
+| ![SOL](https://img.shields.io/badge/Solana-0d1117?style=flat-square&logo=solana&logoColor=9945FF) | `E1xkaJYmAFEj28NPHKhjbf7GcvfdjKdvXju8d8AeSunf` |
+| ![SUI](https://img.shields.io/badge/SUI-0d1117?style=flat-square&logoColor=6FBCF0) | `0xa03726ecbbe00b31df6a61d7a59d02a7eedc39fe269532ceab97852a04cf3347` |
+
+</div>
+
+---
+
+## `> connect --follow`
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram_Channel-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/vonssy_part_2)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonssy)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+  ⚔️   The Heavenly Demon King doesn't sleep — he just farms in the dark.   ⚔️
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=vonssy&style=for-the-badge&color=0d1117&label=SOULS+ENCOUNTERED)
+
+</div>
