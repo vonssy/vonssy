@@ -67,8 +67,8 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vonssy&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonssy&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=vonssy&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vonssy&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vonssy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
+  <img src="https://github-trophies.vercel.app/?username=vonssy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </div>
 
 <br>
@@ -88,8 +88,6 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 ## Contribution Snake
 
 <div align="center">
-
-> Animated contribution graph, refreshed daily by GitHub Actions ([platane/snk](https://github.com/Platane/snk))
 
 <img src="https://raw.githubusercontent.com/vonssy/vonssy/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 
