@@ -12,7 +12,7 @@
 
 <br>
 
-## About Me
+## 🚀 About Me
 
 ```yaml
 name:      Vonssy
@@ -25,7 +25,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 <br>
 
-## Sponsors & Partnerships
+## 🤝 Sponsors & Partnerships
 
 <div align="center">
 
@@ -47,7 +47,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 <br>
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -64,28 +64,38 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 <br>
 
-## GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=vonssy&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vonssy&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vonssy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" width="98%" />
-</div>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=vonssy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vonssy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br>
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=vonssy&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </div>
 
 <br>
 
-## Contribution Snake
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vonssy&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<br>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=vonssy&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4" alt="GitHub Trophies" />
+
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -95,7 +105,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 <br>
 
-## Support
+## ☕ Support
 
 If any of my tools have been useful to you, consider dropping a donation ☕ — it goes straight back into more code and more farming.
 
@@ -112,7 +122,7 @@ If any of my tools have been useful to you, consider dropping a donation ☕ —
 
 <br>
 
-## Connect
+## 🌎 Connect
 
 <div align="center">
 
