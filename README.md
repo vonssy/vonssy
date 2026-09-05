@@ -147,11 +147,11 @@ If any of my tools have been useful to you, consider dropping a donation ☕ —
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/vonssy--portfolio.web.id-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://www.vonssy-portfolio.web.id/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vonssy--portfolio.web.id-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://www.vonssy-portfolio.web.id/)
 <br>
-[![Telegram](https://img.shields.io/badge/Telegram_Channel-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/vonssy_part_2)
+[![Telegram](https://img.shields.io/badge/Telegram_Channel-Vonssy-Part-2?-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/vonssy_part_2)
 <br>
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonssy)
+[![GitHub](https://img.shields.io/badge/GitHub-vonssy-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonssy)
 
 </div>
 
