@@ -28,7 +28,7 @@ status:    🟢 Online — probably farming something right now
 
 I build automation tools and bots across the Web3 ecosystem — multi-account farming scripts, on-chain interaction bots, and scraping/automation pipelines. Most of my work lives in Python, with a focus on reliability, proxy rotation, and clean multi-wallet architecture.
 
-## `> portfolio --live`
+## `> portfolio --open`
 
 <div align="center">
 
@@ -44,7 +44,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 ---
 
-## `> skills --list`
+## `> sponsor --status`
 
 <div align="center">
 
@@ -66,7 +66,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 <br>
 
-## 🛠 Tech Stack
+## `> stack --list`
 
 <div align="center">
 
@@ -83,7 +83,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 <br>
 
-## 📊 GitHub Statistics
+## `> github --stats`
 
 <div align="center">
 
@@ -94,7 +94,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 <br>
 
-## 📈 Contribution Activity
+## `> github --activity`
 
 <div align="center">
 
@@ -104,7 +104,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 <br>
 
-## 🏆 GitHub Trophies
+## `> github --trophies`
 
 <div align="center">
 
@@ -114,7 +114,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 <br>
 
-## 🐍 Contribution Snake
+## `> contributions --animate`
 
 <div align="center">
 
@@ -124,7 +124,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 <br>
 
-## ☕ Support
+## `> support --donate`
 
 If any of my tools have been useful to you, consider dropping a donation ☕ — it goes straight back into more code and more farming.
 
@@ -141,14 +141,14 @@ If any of my tools have been useful to you, consider dropping a donation ☕ —
 
 <br>
 
-## 🌎 Connect
+## `> connect --all`
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vonssy--portfolio.web.id-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://www.vonssy-portfolio.web.id/)
-&nbsp;
+<br>
 [![Telegram](https://img.shields.io/badge/Telegram_Channel-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/vonssy_part_2)
-&nbsp;
+<br>
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonssy)
 
 </div>
