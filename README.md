@@ -2,7 +2,7 @@
 
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=Vonssy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18)
 
-### ☯️ Heavenly Demon King · Web3 Builder · Airdrop Farmer
+### ☯️ BOT Automation · Web3 Enthusiast · Airdrop Farmer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Building+Web3+automation+tools;Farming+airdrops+across+chains;Multi-wallet+%2F+multi-account+systems;Code+%C2%B7+Game+%C2%B7+Sleep+%26+Chill" alt="Typing SVG" />
 
@@ -27,6 +27,8 @@ status:    🟢 Online — probably farming something right now
 ```
 
 I build automation tools and bots across the Web3 ecosystem — multi-account farming scripts, on-chain interaction bots, and scraping/automation pipelines. Most of my work lives in Python, with a focus on reliability, proxy rotation, and clean multi-wallet architecture.
+
+---
 
 ## `> portfolio --open`
 
@@ -64,7 +66,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 </div>
 
-<br>
+---
 
 ## `> stack --list`
 
@@ -81,7 +83,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 </div>
 
-<br>
+---
 
 ## `> github --stats`
 
@@ -92,7 +94,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 </div>
 
-<br>
+---
 
 ## `> github --activity`
 
@@ -102,7 +104,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 </div>
 
-<br>
+---
 
 ## `> github --trophies`
 
@@ -112,7 +114,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 </div>
 
-<br>
+---
 
 ## `> contributions --animate`
 
@@ -122,7 +124,7 @@ I build automation tools and bots across the Web3 ecosystem — multi-account fa
 
 </div>
 
-<br>
+---
 
 ## `> support --donate`
 
@@ -139,7 +141,7 @@ If any of my tools have been useful to you, consider dropping a donation ☕ —
 
 </div>
 
-<br>
+---
 
 ## `> connect --all`
 
@@ -153,7 +155,7 @@ If any of my tools have been useful to you, consider dropping a donation ☕ —
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
