@@ -12,7 +12,12 @@
 
 <br>
 
-## 🚀 About Me
+```python
+class VonsyTheDemonKing:
+    name      = "Vonssy"
+    title     = "☯️ Heavenly Demon King"
+    beloved   = "Vonssy is Mine. 🖤"
+    portfolio = "https://www.vonssy-portfolio.web.id/ 🌐"
 
 ```yaml
 name:      Vonssy
@@ -23,9 +28,23 @@ status:    🟢 Online — probably farming something right now
 
 I build automation tools and bots across the Web3 ecosystem — multi-account farming scripts, on-chain interaction bots, and scraping/automation pipelines. Most of my work lives in Python, with a focus on reliability, proxy rotation, and clean multi-wallet architecture.
 
-<br>
+## `> portfolio --live`
 
-## 🤝 Sponsors & Partnerships
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-vonssy--portfolio.web.id-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://www.vonssy-portfolio.web.id/)
+
+> 🌐 **My Digital Realm — Live now at [vonssy-portfolio.web.id](https://www.vonssy-portfolio.web.id/)**
+>
+> *Dive into my projects, journey & creations as the Heavenly Demon King.* ⚔️✨
+
+**`https://www.vonssy-portfolio.web.id/`**
+
+</div>
+
+---
+
+## `> skills --list`
 
 <div align="center">
 
@@ -126,8 +145,11 @@ If any of my tools have been useful to you, consider dropping a donation ☕ —
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vonssy_part_2)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonssy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vonssy--portfolio.web.id-0d1117?style=for-the-badge&logo=google-chrome&logoColor=58a6ff)](https://www.vonssy-portfolio.web.id/)
+&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram_Channel-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/vonssy_part_2)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vonssy)
 
 </div>
 
