@@ -1,8 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=Vonssy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Heavenly%20Demon%20King%20%C2%B7%20Web3%20Builder&descAlignY=58&descSize=18)
-
-# Hi, I'm Vonssy 👋
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=180&section=header&text=Vonssy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18)
 
 ### ☯️ Heavenly Demon King · Web3 Builder · Airdrop Farmer
 
@@ -10,7 +8,9 @@
 
 </div>
 
-<br>
+---
+
+## `> whoami`
 
 ```python
 class VonsyTheDemonKing:
